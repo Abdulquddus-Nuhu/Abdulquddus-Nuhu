@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋
-
 Backend Engineer focused on fintech & banking infrastructure.
 
 ## 🚀 About Me
@@ -28,7 +26,7 @@ Backend Engineer focused on fintech & banking infrastructure.
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,postgres,redis,docker,git,github,githubactions,postmanz,visualstudio,azure,nginx,rabbitmq,prometheus" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,postgres,redis,docker,git,github,githubactions,postman,visualstudio,azure,nginx,rabbitmq,prometheus" />
 </p>
 
 ## 📌 Current Focus
@@ -47,5 +45,5 @@ Backend Engineer focused on fintech & banking infrastructure.
 
 ## 🌐 Connect With Me
 
-- LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/abdulquddus-nuhu-b9b59319a/)
-- Twitter/X: [YOUR_TWITTER](https://x.com/AbdulquddusNuhu)
+- LinkedIn: [<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/abdulquddus-nuhu-b9b59319a/)
+- Twitter/X: [<img src="https://skillicons.dev/icons?i=twitter" />](https://x.com/AbdulquddusNuhu)
