@@ -34,6 +34,9 @@ Backend Engineer focused on fintech & banking infrastructure.
 - Event driven systems
 - Distributed backend systems
 
+
+<!--
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulquddus-Nuhu&show_icons=true&theme=tokyonight)
@@ -41,6 +44,8 @@ Backend Engineer focused on fintech & banking infrastructure.
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Abdulquddus-Nuhu&theme=tokyonight)
+
+-->
 
 ## 🌐 Connect With Me
 
