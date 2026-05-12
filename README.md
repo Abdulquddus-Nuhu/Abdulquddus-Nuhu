@@ -29,12 +29,13 @@ Backend Engineer focused on fintech & banking infrastructure.
   <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,postgres,redis,docker,git,github,githubactions,postman,visualstudio,azure,nginx,rabbitmq,prometheus" />
 </p>
 
-[![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=cs,dotnet,javascript,blazor-light,sqlserver,postgres,mysql,redis,docker,podman,git,github,githubactions,postman,visualstudio,visualstudiocode,azure,nginx,rabbitmq,grafana-light,prometheus,linux-light,debian,&perline=10)](https://github.com/thuongtruong109/icoziv)
+[![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=cs,dotnet,javascript,blazor-light,sqlserver,postgresql-light,mysql,sqlite,redis,docker,podman,git,github,githubactions,postman,visualstudio,visualstudiocode,azure,nginx,rabbitmq,grafana-light,prometheus,linux-light,debian,&perline=15)](https://github.com/thuongtruong109/icoziv)
 
 ## 📌 Current Focus
 - Banking integrations
 - Payment systems
 - API security
+- Event driven systems
 - Distributed backend systems
 
 ## 📊 GitHub Stats
